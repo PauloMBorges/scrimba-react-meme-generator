@@ -7,6 +7,7 @@ It fetches random memes from an API and allows users to add their own text to th
 
 This was the longest section of the course and it covers various React basics like: Event Listeners, State & Effect, Conditional Rendering, Forms, Fetching Data from an API, and more.
 
+
 ## Technologies Used
 
 - React
