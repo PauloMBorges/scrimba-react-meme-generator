@@ -1,8 +1,19 @@
-# React + Vite
+# Scrimba React Meme Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a meme generator built as part of the [Scrimba's Learn React course](https://v2.scrimba.com/learn-react-c0e). 
+It fetches random memes from an API and allows users to add their own text to the meme. 
 
-Currently, two official plugins are available:
+![Meme Generator Screenshot](/src/assets/meme-generator-sc.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This was the longest section of the course and it covers various React basics like: Event Listeners, State & Effect, Conditional Rendering, Forms, Fetching Data from an API, and more.
+
+## Technologies Used
+
+- React
+- HTML
+- CSS
+
+## Website Link
+
+Visit the live website [here](https://paulomborges.github.io/scrimba-react-meme-generator).
+
